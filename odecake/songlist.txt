@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": "odecakegirl",
+      "title_localized": {
+        "en": "Odecake Girl"
+      },
+      "artist": "Yu-dachi",
+      "bpm": "175",
+      "bpm_base": 175,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 87724,
+      "audioPreviewEnd": 97778,
+      "side": 0,
+      "bg": "shiawase2",
+      "date": 1671024593,
+      "version": "3.11",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Transparent",
+          "jacketDesigner": "Yu-dachi & Transparent",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+    {
+      "id": "nova",
+      "title_localized": {
+        "en": "NOVA"
+      },
+      "artist": "Notorious(Nota & TRIAL)",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 38834,
+      "audioPreviewEnd": 49276,
+      "side": 1,
+      "bg": "aseConflict",
+      "date": 1672153039,
+      "version": "3.12",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "///////////",
+          "jacketDesigner": "Dynamix",
+          "rating": 9
+        }
+      ]
+    }
+

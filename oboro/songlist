@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": "oboro",
+      "title_localized": {
+        "en": "oboro"
+      },
+      "artist": null,
+      "bpm": "175",
+      "bpm_base": 175,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 84876,
+      "audioPreviewEnd": 95923,
+      "side": 0,
+      "bg": "shiawase2",
+      "date": 1721529525,
+      "version": "4.6",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

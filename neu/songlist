@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": "neu",
+      "title_localized": {
+        "en": "neu"
+      },
+      "artist": "少年ラジオ",
+      "bpm": "199",
+      "bpm_base": 199,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 37343,
+      "audioPreviewEnd": 54873,
+      "side": 0,
+      "bg": "rei",
+      "date": 1698414395,
+      "version": "3.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": " ? ",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+    {
+      "id": "seishanokigan",
+      "title_localized": {
+        "en": "Seisha no Kigan"
+      },
+      "artist": "Tatsh",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 88946,
+      "audioPreviewEnd": 95560,
+      "side": 0,
+      "bg": "nijuusei-light-b",
+      "date": 1668694913,
+      "version": "3.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "透明 -十年-",
+          "jacketDesigner": "未早",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },

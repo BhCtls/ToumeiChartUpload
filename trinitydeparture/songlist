@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "trinitydeparture",
+      "title_localized": {
+        "en": "Trinity Departure"
+      },
+      "artist": "Soielly",
+      "bpm": "152",
+      "bpm_base": 152,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 40000,
+      "audioPreviewEnd": 60000,
+      "side": 0,
+      "bg": "ongeki_light",
+      "date": 1703772802,
+      "version": "3.20",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 8
+        }
+      ]
+    }
+  ]
+}

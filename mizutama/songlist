@@ -1,0 +1,49 @@
+{
+  "songs": [
+    {
+      "id": "mizutama",
+      "title_localized": {
+        "en": "Mizutama-Tripster"
+      },
+      "artist": "kohu",
+      "bpm": "145",
+      "bpm_base": 145,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 11451,
+      "audioPreviewEnd": 41919,
+      "side": 0,
+      "bg": "shiawase2",
+      "date": 1692496796,
+      "version": "3.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 2
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Transparent",
+          "jacketDesigner": "SEGA",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "透明",
+          "jacketDesigner": "SEGA",
+          "rating": 12,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "TOUMEI -DEPMARINE-",
+          "jacketDesigner": "SEGA",
+          "rating": 13,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

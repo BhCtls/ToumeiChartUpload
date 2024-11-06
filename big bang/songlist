@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": "bigbang",
+      "title_localized": {
+        "en": "Big Bang"
+      },
+      "artist": "已老实求放过",
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 0,
+      "audioPreviewEnd": 12151,
+      "side": 1,
+      "bg": "tanoc_conflict",
+      "date": 1720406865,
+      "version": "4.5",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

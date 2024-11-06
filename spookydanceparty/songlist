@@ -1,0 +1,38 @@
+{
+      "id": "spspookydanceparty",
+      "title_localized": {
+        "en": "Spooky Dance Party",
+        "jp": "スプーキィダンスパーティ",
+      },
+      "artist": "seatrus",
+      "bpm": "158",
+      "bpm_base": 158,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 55434,
+      "audioPreviewEnd": 62238,
+      "side": 1,
+      "bg": "zettai_light",
+      "date": 1702195110,
+      "version": "3.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 10
+        }
+      ]
+}

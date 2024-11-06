@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "larva",
+      "title_localized": {
+        "en": "larva"
+      },
+      "artist": "ガリガリさむし",
+      "bpm": "202",
+      "bpm_base": 202,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 55843,
+      "audioPreviewEnd": 66097,
+      "side": 1,
+      "bg": "maimai_boss",
+      "date": 1687185136,
+      "version": "",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": -1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "",
+          "jacketDesigner": "サマータイム　オーバー　とうめい",
+          "rating": 10
+        }
+      ]
+    }
+  ]
+}

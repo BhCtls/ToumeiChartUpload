@@ -1,0 +1,38 @@
+{
+	"id": "n3v3rg3tov3r",
+	"title_localized": {
+		"en": "N3V3R G3T OV3R"
+	},
+	    "artist": "C-Show",
+	    "bpm": "128",
+	    "bpm_base": 128,
+	    "set": "base",
+	    "purchase": "",
+	    "audioPreview": 85839,
+	    "audioPreviewEnd": 115620,
+	    "side": 0,
+	    "bg": "tanoc-red",
+	    "date": 1643452238,
+	    "version": "",
+	    "difficulties": [
+		    {
+			"ratingClass": 0,
+		    	"chartDesigner": "",
+		    	"jacketDesigner": "",
+		    	"rating": 0
+		    },
+		    {
+		    	"ratingClass": 1,
+		    	"chartDesigner": "",
+		    	"jacketDesigner": "",
+		    	"rating": 0
+		    },
+		    {
+		    	"ratingClass": 2,
+		    	"chartDesigner": "T3a3s p3r r3nt",
+		    	"jacketDesigner": "",
+		    	"rating": 9,
+		    	"ratingPlus": true
+		    }
+	    ]   
+    },
